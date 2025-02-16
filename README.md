@@ -23,7 +23,7 @@ By taking inputs like initial investment, annual contributions, expected annual 
 
 🚀 Steps to Run
 1) Clone the repository "git clone https://github.com/RiyaBhutada/investment-calculator.git"
-2) Navigate to the folder "cd countdown-game"
+2) Navigate to the folder "cd investment-calculator"
 3) Install dependencies "npm install"
 4) Start the development server "npm run dev"
 5) Navigate to http://localhost:5173/ (or the provided URL) to interact with the calculator.
